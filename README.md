@@ -1,4 +1,4 @@
-# Project: Resellable (Client Side)
+# Resellable (Client Side)
 
 **Resellable** is a platform for reselling products, allowing users to browse, manage, and purchase items. This is the client-side of the website, offering a seamless shopping experience.
 
