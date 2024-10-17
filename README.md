@@ -2,7 +2,17 @@
 
 **Resellable** is a platform for reselling products, allowing users to browse, manage, and purchase items. This is the client-side of the website, offering a seamless shopping experience.
 
-## Key Features:
+### Live Site
+[Resellable Client](https://resaller-80d96.web.app/) <br>
+[Resellable Server](https://reseller-red.vercel.app/)
+
+### Admin Information
+
+- Email: ruhulamin@gmail.com
+- Password: Ruhul123456@
+
+
+### Key Features:
 - View all available products.
 - View detailed product information.
 - Add products to the cart.
@@ -15,29 +25,6 @@
 - View order history and details.
 
 Resellable provides an intuitive interface for users to explore, save, and purchase resellable products with ease.
-
-### Live Site
-[Resellable Client](https://resaller-80d96.web.app/) <br>
-[Resellable Server](https://reseller-red.vercel.app/)
-
-### Admin Information
-
-- Email: ruhulamin@gmail.com
-- Password: Ruhul123456@
-
-
-### Features
-- User can see all the products.
-- User can see the details of the product.
-- User can add the product to the cart.
-- User can see the cart.
-- User can remove the product from the cart.
-- User can add the product to the wishlist.
-- User can see the wishlist.
-- User can remove the product from the wishlist.
-- User can see the checkout page.
-- User can see the order history.
-- User can see the order details.
 
 
 ### Frontend Technology
