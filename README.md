@@ -1,5 +1,20 @@
-## Resellable Client (Assignment 12)
-Resellable is ReSale seller proudcts type website and this is the `client side` of the website.
+# Project: Resellable (Client Side)
+
+**Resellable** is a platform for reselling products, allowing users to browse, manage, and purchase items. This is the client-side of the website, offering a seamless shopping experience.
+
+## Key Features:
+- View all available products.
+- View detailed product information.
+- Add products to the cart.
+- View and manage the cart.
+- Remove items from the cart.
+- Add products to the wishlist.
+- View and manage the wishlist.
+- Remove items from the wishlist.
+- Access the checkout page.
+- View order history and details.
+
+Resellable provides an intuitive interface for users to explore, save, and purchase resellable products with ease.
 
 ### Live Site
 [Resellable Client](https://resaller-80d96.web.app/) <br>
